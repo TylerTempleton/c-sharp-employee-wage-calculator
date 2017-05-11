@@ -1,0 +1,11 @@
+c:\users\tnt\documents\visual studio 2015\Projects\A2TylerTempleton\A2TylerTempleton\bin\Debug\A2TylerTempleton.exe.config
+c:\users\tnt\documents\visual studio 2015\Projects\A2TylerTempleton\A2TylerTempleton\bin\Debug\A2TylerTempleton.exe
+c:\users\tnt\documents\visual studio 2015\Projects\A2TylerTempleton\A2TylerTempleton\bin\Debug\A2TylerTempleton.pdb
+c:\users\tnt\documents\visual studio 2015\Projects\A2TylerTempleton\A2TylerTempleton\obj\Debug\A2TylerTempleton.csprojResolveAssemblyReference.cache
+c:\users\tnt\documents\visual studio 2015\Projects\A2TylerTempleton\A2TylerTempleton\obj\Debug\A2TylerTempleton.WageForm.resources
+c:\users\tnt\documents\visual studio 2015\Projects\A2TylerTempleton\A2TylerTempleton\obj\Debug\A2TylerTempleton.Properties.Resources.resources
+c:\users\tnt\documents\visual studio 2015\Projects\A2TylerTempleton\A2TylerTempleton\obj\Debug\A2TylerTempleton.csproj.GenerateResource.Cache
+c:\users\tnt\documents\visual studio 2015\Projects\A2TylerTempleton\A2TylerTempleton\obj\Debug\A2TylerTempleton.exe
+c:\users\tnt\documents\visual studio 2015\Projects\A2TylerTempleton\A2TylerTempleton\obj\Debug\A2TylerTempleton.pdb
+C:\Users\TNT\Documents\Visual Studio 2015\Projects\A2TylerTempleton\A2TylerTempleton\obj\Debug\A2TylerTempleton.errorPopup.resources
+C:\Users\TNT\documents\visual studio 2015\Projects\A2TylerTempleton\A2TylerTempleton\obj\Debug\A2TylerTempleton.comfirmationPopup.resources
